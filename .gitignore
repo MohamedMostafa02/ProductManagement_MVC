@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Rr]elease/
+[Dd]ebug/
+
+# Publish results
+*.publishsettings
+*.pubxml
+*.pubxml.user
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.PackageRestore
+project.lock.json
+
+# User-specific files
+*.userprefs
+*.local.json
+
+# Other
+node_modules/
+wwwroot/lib/
+.env
